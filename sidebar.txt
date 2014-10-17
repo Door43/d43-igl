@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[igl:home|Door43 (igl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-igl|d43-igl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-igl/archive/master.zip|d43-igl.zip]]
+
+**Recent Changes**
+{{changes>ns = igl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/igl|Ethnologue data]]
+
